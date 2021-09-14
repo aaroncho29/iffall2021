@@ -1,0 +1,43 @@
+p {
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+    font-family:'Courier New', Courier, monospace
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.peter {
+    color: rgb(129, 196, 255);
+}
+
+.dana {
+    color: rgb(157, 255, 242);
+}
+
+.mayor {
+    color: rgb(255, 212, 160);
+}
+
+.ray {
+    color: rgb(212, 166, 255);
+}
+
+.egon {
+    color: rgb(255, 147, 169);
+}
+
+.winston {
+    color: rgb(255, 244, 94);
+}

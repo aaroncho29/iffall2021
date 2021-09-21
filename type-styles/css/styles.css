@@ -1,0 +1,48 @@
+html {
+    color:whitesmoke;
+    font-family: 'Inconsolata', monospace;
+    font-size: 20pt;
+    text-align: center;
+}
+
+main {
+    text-align: left;
+}
+
+.header {
+    font-size: 25pt;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.label {
+    font-size: 15pt;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.minus {
+    letter-spacing: -1.5px;
+}
+
+.plus {
+    letter-spacing: 4px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}

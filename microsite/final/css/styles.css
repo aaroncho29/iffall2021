@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: black;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    color: red;
+    font-family: 'PT Serif', serif;
+}
+
+h2 {
+    color: rgb(255, 94, 94);
+    font-family: 'PT Serif', serif;
+}
+
+h3 {
+    color: rgb(255, 137, 137);
+    font-family: 'PT Serif', serif;
+}
+
+nav#main-nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav#main-nav ul li a{
+    display: inline-block;
+    color: white;
+    background-color: tomato;
+    padding: .2em 2em;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: all 5s;
+}
+
+nav#main-nav ul li a:hover{
+    background-color: #990000;
+}
+
+nav#main-nav ul li a.selected{
+    background-color: #990000;
+}
